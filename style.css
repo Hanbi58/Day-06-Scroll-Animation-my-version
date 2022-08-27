@@ -28,7 +28,6 @@ div {
 }
 
 div:nth-of-type(even) {
-  translateX(1000px);
   scale: -1;
 }
 
